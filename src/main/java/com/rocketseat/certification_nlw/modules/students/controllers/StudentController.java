@@ -24,6 +24,6 @@ public class StudentController {
             return "Usuário já fez a prova";
         }
 
-        return "Usuário pode fazer";
+        return "Usuário pode fazer a prova";
     }
 }
